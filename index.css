@@ -1489,7 +1489,7 @@ footer {
     font-size: 30px;
   }
   .dream-imgs {
-    grid-template-columns: 1fr 1fr;
+    display: none;
   }
   .today-r {
     grid-template-columns: 1fr 1fr;
